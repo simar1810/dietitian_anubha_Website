@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wellnessz.dietitian",
+      "sha256_cert_fingerprints": [
+        "37:6C:C7:17:77:44:5E:77:2E:22:CA:2F:28:63:C7:4E:49:4F:1E:5B:E6:D0:C9:9F:F4:74:D3:E9:3D:9E:94:69"
+      ]
+    }
+  }
+]
